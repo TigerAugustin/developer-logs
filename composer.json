@@ -12,6 +12,6 @@
             "name": "tiger augustin"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
