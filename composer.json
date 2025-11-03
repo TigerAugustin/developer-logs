@@ -2,14 +2,16 @@
     "name": "comcat/developer-logs",
     "description": "Efficient Laravel error handling with custom exception handling, logging, and response formatting.",
     "license": "MIT",
-     "type": "library", 
+     "type": "project", 
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+         "laravel/framework": "^11.0"
     },
     "authors": [
         {
             "name": "tiger augustin"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
