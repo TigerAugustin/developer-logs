@@ -1,0 +1,13 @@
+{
+    "name": "comcat/cdeveloper-logs",
+    "description": "Efficient Laravel error handling with custom exception handling, logging, and response formatting.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tiger augustin"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
