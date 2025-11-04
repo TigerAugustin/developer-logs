@@ -1,3 +1,5 @@
 /vendor/
 
 guide.txt
+
+composer.lock
