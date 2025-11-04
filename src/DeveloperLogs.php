@@ -6,7 +6,7 @@ namespace ComCat\DeveloperLogs;
 
 use Illuminate\Support\Facades\File;
 
-class DeveloperLog {
+class DeveloperLogs {
 
 protected $logPath;
 
